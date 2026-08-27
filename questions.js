@@ -767,7 +767,7 @@ const QUESTIONS = [
   { id: 'o47', statement: '넥타이의 기원은 크로아티아 병사들의 목수건이다.',
     answer: true, difficulty: 3, category: 'life', region: 'world',
     explanation: "17세기 프랑스에 온 크로아티아 용병의 목수건이 유행하며 '크라바트'가 됐고, 이것이 넥타이의 기원입니다.",
-    source: 'https://en.wikipedia.org/wiki/Cravat_(early_necktie)' },
+    source: 'https://en.wikipedia.org/wiki/Necktie' },
 
   { id: 'o48', statement: '베토벤은 청력을 잃은 뒤에도 작곡을 계속했다.',
     answer: true, difficulty: 1, category: 'people', region: 'world',
