@@ -208,10 +208,10 @@ const QUESTIONS = [
     source: 'https://ko.wikipedia.org/wiki/몽유도원도' },
 
   /* ─────────────── 세계사: 잘못 알려진 상식 ─────────────── */
-  { id: 'w01', statement: '나폴레옹은 당시 프랑스 남성 평균보다 키가 매우 작았다.',
+  { id: 'w01', statement: '어린 워싱턴이 벚나무를 베고 정직하게 고백했다는 일화는 실제 기록에 근거한다.',
     answer: false, difficulty: 1, category: 'people', region: 'world',
-    explanation: '나폴레옹의 키는 약 168cm로 당시 프랑스 평균 수준이었습니다. 프랑스식 단위의 오해와 영국의 풍자화가 만든 이미지입니다.',
-    source: 'https://en.wikipedia.org/wiki/Napoleon' },
+    explanation: '이 일화는 워싱턴 사후 전기작가 윔스가 지어낸 이야기로 여겨집니다. 정작 정직함의 상징이 된 일화가 창작이라는 점이 아이러니입니다.',
+    source: 'https://en.wikipedia.org/wiki/Parson_Weems' },
 
   { id: 'w02', statement: '중세 유럽의 지식인들은 지구가 평평하다고 믿었다.',
     answer: false, difficulty: 1, category: 'culture', region: 'world',
